@@ -6,6 +6,8 @@ import {AppRegistry} from 'react-native';
 import App from './App';
 import {name as appName} from './app.json';
 // import App1 from './tests/react-native-screens/index.tsx'
-import App1 from './tests/260116160802092/react-native-clipboard/index.tsx'
+// import App1 from './tests/260116160802092/react-native-clipboard/index.tsx'
+// import App1 from './tests/DTS2026011907680/GestureHandlerDemo'
+import App1 from './tests/didi/keyboard/KebApp.tsx'
 
 AppRegistry.registerComponent(appName, () => App1);
