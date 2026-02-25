@@ -12,13 +12,14 @@
     "dev": "react-native bundle --platform android --dev=false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res"
   },
   "dependencies": {
+    "@react-navigation/native-stack": "7.3.21",
     "react": "18.3.1",
     "react-native": "0.77.1",
     "react-native-gesture-handler": "^2.23.1",
-    "@react-navigation/native-stack": "7.3.21",
-    "react-native-screens": "4.14.1",
+    "react-native-modalbox": "^2.0.2",
     "react-native-reanimated": "3.17.5",
-    "react-native-safe-area-context": "^5.1.0"
+    "react-native-safe-area-context": "^5.1.0",
+    "react-native-screens": "4.14.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
