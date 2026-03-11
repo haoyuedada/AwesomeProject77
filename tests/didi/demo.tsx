@@ -93,7 +93,7 @@ export default function PanScrollViewDemo() {
         <GestureHandlerRootView style={styles.container}>
             <SafeAreaView style={styles.container}>
                 {/* 新增的垂直 ScrollView - 高度 50，100 个 item */}
-                <View style={styles.smallScrollViewWrapper}>
+                {/* <View style={styles.smallScrollViewWrapper}>
                     <ScrollView
                         style={styles.smallScrollView}
                         showsVerticalScrollIndicator={true}
@@ -104,7 +104,7 @@ export default function PanScrollViewDemo() {
                             </View>
                         ))}
                     </ScrollView>
-                </View>
+                </View> */}
 
                 {/* <View style={styles.header}>
 <Text style={styles.title}>Pan + ScrollView Demo</Text>
