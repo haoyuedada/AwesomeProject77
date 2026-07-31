@@ -17,6 +17,8 @@ import {name as appName} from './app.json';
 // import App1 from "./tests/TopTabDemo/NavigationMaterialTopTabs"
 // import App from "./tests/kuncheng/demo"
 // import App from "./tests/screens-container/index.tsx"
-import App from './tests/AnimatedComponent.tsx'
+// import App from './tests/AnimatedComponent.tsx'
+// import App from './tests/react-native-reanimated/animatedSensor.tsx'
+import App from './tests/native-stack-demo/index.tsx'
 
 AppRegistry.registerComponent(appName, () => App);
