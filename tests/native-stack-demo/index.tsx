@@ -15,6 +15,7 @@ export default function App() {
     <NavigationContainer>
       <Stack.Navigator
         screenOptions={{
+          fullScreenGestureEnabled: true, // 启用全屏手势滑动返回
           gestureEnabled: true, // 禁用手势滑动返回
           headerStyle: { backgroundColor: '#4a90d9' },
           headerTintColor: '#fff',

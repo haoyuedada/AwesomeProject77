@@ -19,6 +19,11 @@ import {name as appName} from './app.json';
 // import App from "./tests/screens-container/index.tsx"
 // import App from './tests/AnimatedComponent.tsx'
 // import App from './tests/react-native-reanimated/animatedSensor.tsx'
-import App from './tests/native-stack-demo/index.tsx'
+// import App from './tests/native-stack-demo/index.tsx'
+
+// 滴滴 & jingdong scrollview 和手势嵌套的 demo
+// import App from "./tests/Gesture/demo.tsx"
+// import App from "./tests/Gesture/GestureHandlerDemo.tsx"
+import App from "./tests/Gesture/GestureHandlerDemo-SWM.tsx"
 
 AppRegistry.registerComponent(appName, () => App);

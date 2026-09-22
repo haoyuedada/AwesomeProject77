@@ -1252,7 +1252,7 @@ PODS:
     - ReactCommon/turbomodule/bridging
     - ReactCommon/turbomodule/core
     - Yoga
-  - react-native-safe-area-context (5.7.0):
+  - react-native-safe-area-context (5.8.0):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -1265,8 +1265,8 @@ PODS:
     - React-featureflags
     - React-graphics
     - React-ImageManager
-    - react-native-safe-area-context/common (= 5.7.0)
-    - react-native-safe-area-context/fabric (= 5.7.0)
+    - react-native-safe-area-context/common (= 5.8.0)
+    - react-native-safe-area-context/fabric (= 5.8.0)
     - React-NativeModulesApple
     - React-RCTFabric
     - React-rendererdebug
@@ -1275,7 +1275,7 @@ PODS:
     - ReactCommon/turbomodule/bridging
     - ReactCommon/turbomodule/core
     - Yoga
-  - react-native-safe-area-context/common (5.7.0):
+  - react-native-safe-area-context/common (5.8.0):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -1296,7 +1296,7 @@ PODS:
     - ReactCommon/turbomodule/bridging
     - ReactCommon/turbomodule/core
     - Yoga
-  - react-native-safe-area-context/fabric (5.7.0):
+  - react-native-safe-area-context/fabric (5.8.0):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -2061,7 +2061,7 @@ SPEC CHECKSUMS:
   React-microtasksnativemodule: d03753688e2abf135edcd4160ab3ce7526da8b0d
   react-native-date-picker: 729d0384b49f516c6712625aa571d55af5cdb1e0
   react-native-pager-view: dcfa9627ad282529a547f4fea89652df1de41385
-  react-native-safe-area-context: e88b83d859a7e849a9defbcf33d125cbfb45c98e
+  react-native-safe-area-context: 9f222476ea9d3481726746476bde3013868cee05
   React-nativeconfig: cb207ebba7cafce30657c7ad9f1587a8f32e4564
   React-NativeModulesApple: 8411d548b1ad9d2b3e597beb9348e715c8020e0c
   React-perflogger: c4c3b7c18f8a50cdbe2bcdd2f15705ba029a5a02

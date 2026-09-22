@@ -107,6 +107,7 @@ class SwipeableTabBarController: UITabBarController {
   }
 
   @objc private func handleSwipe(_ gesture: UISwipeGestureRecognizer) {
+    NSLog("[RNSScreenStack] handleSwipe: gesture= event=");
     guard let count = viewControllers?.count else { return }
     let current = selectedIndex
 
